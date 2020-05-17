@@ -18,6 +18,6 @@ Twitter has become an important communication channel in times of emergency. The
 
 
 # Please the complete Presentation below:
-[Presenation and Results] (https://drive.google.com/file/d/174j30usRfiDbK0ptisUvD-2oxikqwaEd/view?usp=sharing) .
+[Presenation and Results](https://drive.google.com/file/d/174j30usRfiDbK0ptisUvD-2oxikqwaEd/view?usp=sharing) .
 
-To test with pre-trained model, download [Presenation](https://drive.google.com/file/d/174j30usRfiDbK0ptisUvD-2oxikqwaEd/view?usp=sharing), and locate it in the project root directory. Then,
+
