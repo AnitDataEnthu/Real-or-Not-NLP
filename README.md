@@ -18,5 +18,5 @@ Twitter has become an important communication channel in times of emergency. The
 
 
 # Please the complete Presentation below:
-[Presenation and Results] (https://github.com/agupta-git/Real-or-Not-NLP/blob/master/AML%20Final%20Presentation1.pptx).
+[Presenation and Results] (https://drive.google.com/file/d/174j30usRfiDbK0ptisUvD-2oxikqwaEd/view?usp=sharing) .
 
